@@ -7,7 +7,13 @@
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a>
 <a href="https://johnathanfernandes.github.io/">
-<img src="https://img.shields.io/badge/-website-important?style=for-the-badge&logo=Internet Explorer&logoColor=white" alt="Website Badge">
+<img src="https://img.shields.io/badge/-website-lightgrey?style=for-the-badge&logo=Internet Explorer&logoColor=white" alt="Website Badge">
+</a>
+<a href="https://www.instagram.com/parme.jon.cheese/">
+<img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
+</a>
+<a href="https://twitter.com/Jon_at_UL">
+<img src="https://img.shields.io/badge/-Twitter-skyblue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Badge">
 </a>
 </p>
 
