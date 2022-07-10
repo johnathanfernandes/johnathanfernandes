@@ -39,6 +39,4 @@ Tinkering with computers from a young age eventually led me to become the comput
 
 ---
 
-<p  align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnathanfernandes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
