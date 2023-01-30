@@ -20,7 +20,7 @@
 ---
 ## About me:
 
- Recently completed my M.Sc in Business Analytics from the University of Limerick, Ireland.
+Recently completed my M.Sc. in Business Analytics from the University of Limerick, Ireland.
 
 The project-heavy nature of my degree has reinforced my communication, project management and team leadership skills, while also giving me the opportunity to pick up invaluable reporting and presentation skills. Completing multiple projects across so many different fields has also exposed me to multiple programming languages and analytical applications. Participating in the annual college festivals gave me field experience handling media and design for multiple teams as well.
 
